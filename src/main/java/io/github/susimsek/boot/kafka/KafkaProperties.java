@@ -1,4 +1,4 @@
-package com.github.susimsek.boot.kafka;
+package io.github.susimsek.boot.kafka;
 
 import lombok.AccessLevel;
 import lombok.Data;
