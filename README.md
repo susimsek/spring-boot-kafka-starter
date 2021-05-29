@@ -24,6 +24,10 @@ This is a spring boot starter to use Kafka.
 
 ### Useful Links
 
+- **Kafka**
+
+  `Kafka` can be accessed at localhost:9092
+
 - **Kafka Topics UI**
 
   `Kafka Topics UI` can be accessed at http://localhost:9000
