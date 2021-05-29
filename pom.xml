@@ -47,7 +47,7 @@
 
     <scm>
         <connection>scm:git:git://github.com/susimsek/spring-boot-kafka-starter.git</connection>
-        <developerConnection>scm:git:ssh://github.com:susimsek/spring-boot-kafka-starter.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:susimsek/spring-boot-kafka-starter.git</developerConnection>
         <url>http://github.com/susimsek/spring-boot-kafka-starter</url>
       <tag>spring-boot-kafka-starter-1.0.1</tag>
   </scm>
