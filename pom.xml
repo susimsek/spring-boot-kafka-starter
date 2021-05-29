@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.susimsek</groupId>
+    <groupId>com.github.susimsek</groupId>
     <artifactId>spring-boot-kafka-starter</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
