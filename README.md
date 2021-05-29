@@ -8,6 +8,26 @@ This is a spring boot starter to use Kafka.
 - [x] Auto configuration.
 - [x] Kafka JsonDeserializer and JsonSerializer.
 
+## Kafka Docker Compose Installation
+
+### Prerequisites
+
+- [`Docker`](https://www.docker.com/)
+- [`Docker-Compose`](https://docs.docker.com/compose/install/)
+
+### Start Environment
+
+- Open a terminal and inside `docker` root folder run
+  ```
+  docker-compose up -d
+  ```
+
+### Useful Links
+
+- **Kafka Topics UI**
+
+  `Kafka Topics UI` can be accessed at http://localhost:9000
+
 ## Quick Start
 
 maven dependency:
