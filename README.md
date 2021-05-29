@@ -16,7 +16,7 @@ maven dependency:
 <dependency>
     <groupId>io.github.susimsek</groupId>
     <artifactId>spring-boot-kafka-starter</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
