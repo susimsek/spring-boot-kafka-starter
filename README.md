@@ -48,6 +48,9 @@ maven dependency:
 ```
 
 ## Spring Boot Properties
+
+That is default working configuration.
+
 application.properties
 
 ```
