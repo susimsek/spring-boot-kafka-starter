@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.5.0</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
     <groupId>io.github.susimsek</groupId>
     <artifactId>spring-boot-kafka-starter</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-kafka-starter</name>
@@ -50,7 +49,8 @@
         <connection>scm:git:git://github.com/susimsek/spring-boot-kafka-starter.git</connection>
         <developerConnection>scm:git:ssh://github.com:susimsek/spring-boot-kafka-starter.git</developerConnection>
         <url>http://github.com/susimsek/spring-boot-kafka-starter</url>
-    </scm>
+      <tag>spring-boot-kafka-starter-1.0.1</tag>
+  </scm>
 
 
     <properties>
