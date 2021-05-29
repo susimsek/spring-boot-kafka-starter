@@ -1,4 +1,5 @@
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.susimsek/spring-boot-kafka-starter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.susimsek/spring-boot-kafka-starter)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.susimsek/spring-boot-kafka-starter.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.susimsek/spring-boot-kafka-starter)
+
 # Spring Boot Kafka Starter
 This is a spring boot starter to use Kafka.
 
@@ -32,7 +33,9 @@ This is a spring boot starter to use Kafka.
 
   `Kafka Topics UI` can be accessed at http://localhost:9000
 
-## Quick Start
+## Installation
+
+Add the starter module to your dependencies.
 
 maven dependency:
 
