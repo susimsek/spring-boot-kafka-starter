@@ -2,6 +2,8 @@
 # Spring Boot Kafka Starter
 This is a spring boot starter to use Kafka.
 
+<img src="https://github.com/susimsek/spring-boot-kafka-starter/blob/main/images/spring-boot-kafka-starter.png" alt="Spring Boot Starter Kafka" width="100%" height="100%"/>
+
 ## Features
 - [x] Auto configuration.
 - [x] Kafka JsonDeserializer and JsonSerializer.
